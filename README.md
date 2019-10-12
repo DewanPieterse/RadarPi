@@ -22,7 +22,7 @@ The following packages need to be installed:
 
 - Flask (http://mattrichardson.com/Raspberry-Pi-Flask/)
 - PyGame (https://www.pygame.org/wiki/GettingStarted)
-- $I^2S$ DAC Driver (https://learn.adafruit.com/adafruit-max98357-i2s-class-d-mono-amp/overview)
+- I2S DAC Driver (https://learn.adafruit.com/adafruit-max98357-i2s-class-d-mono-amp/overview)
 - RaspAP (https://raspberry-valley.azurewebsites.net/RaspAP-Wifi-Hotspot/)
 - If the radar is implemented using something other than the Raspberry Pi, additional packages need to be installed: 
   - Numpy (https://scipy.org/install.html)
